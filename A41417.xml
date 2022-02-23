@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Good news of Englands approving the covenant sent from Scotland and some reasons for assisting the Parliament of England against the papists and prelaticall army.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41417</idno>
+            <idno type="STC">Wing G1073</idno>
+            <idno type="STC">ESTC R32438</idno>
+            <idno type="EEBO-CITATION">12696535</idno>
+            <idno type="OCLC">ocm 12696535</idno>
+            <idno type="VID">65867</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41417)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65867)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1527:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Good news of Englands approving the covenant sent from Scotland and some reasons for assisting the Parliament of England against the papists and prelaticall army.</title>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Bellamy and Ralph Smith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Imprimatur, Ja. Cranford" -- p. 9.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solemn League and Covenant (1643)</term>
+               <term>Church and state --  England.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65867:1"/>
+            <!-- PDF PAGE 79 -->
+            <pb facs="tcp:65867:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 79 -->
+            <p>THE GOOD NEVVS OF ENGLANDS APPROVING THE COVENANT SENT FROM SCOTLAND: And ſome Reaſons for aſsiſting the Parliament of ENGLAND, againſt the Papiſts and Pre<g ref="char:EOLhyphen"/>laticall Army.</p>
+            <p>LONDON, Printed for <hi>John Bellamy,</hi> and <hi>Ralph Smith.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="introduction">
+            <pb facs="tcp:65867:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 80 -->
+            <opener>
+               <dateline>
+                  <date>4. September.</date>
+               </dateline>
+            </opener>
+            <p>THe Covenant which was ſent up from the Generall Aſſembly, and Convention of Eſtates, was approven unanimouſlie by the Aſſembly of Divines on Friday the firſt, by the Houſe of Com<g ref="char:EOLhyphen"/>mons on Saturday the ſecond, and by the Houſe of Peers on Monday the fourth of September, <hi>nemine contradicente,</hi> as both the printed Diurnalls, and written Letters report, with a great and happy change of the countenance of people, and face of affairs thereupon. Bleſſed be the name of God therefore.</p>
+         </div>
+         <div type="list_of_reasons">
+            <pb n="1" facs="tcp:65867:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 80 -->
+            <head>Reaſons for aſsiſting the Parliament of ENGLAND againſt the Pa<g ref="char:EOLhyphen"/>piſts and Prelatical Army.</head>
+            <list>
+               <item>FIRST,<seg rend="decorInit">T</seg>He Controverſie now in England, be<g ref="char:EOLhyphen"/>ing betwixt the Lord Jeſus and An<g ref="char:EOLhyphen"/>tichriſt with his followers, if we would not come under the curſe of <hi>Meroz,</hi> we ſhould come out upon ſo clear a call, from the repreſentative body of England, to the repreſentative body of Scot<g ref="char:EOLhyphen"/>land, and help the Lord againſt the mighty, being aſ<g ref="char:EOLhyphen"/>ſured that the help that we give to his Kirk, in ſuch an exigent, is given to himſelf, and ſhall not want a bleſſed reward.</item>
+               <item>Secondly, There was an Act paſt by the Conven<g ref="char:EOLhyphen"/>tion of Eſtates, Anno 1585. conforme to the deſire of the Generall Aſſembly 1583. for a common band and union betwixt the two Kingdomes, wherein the E<g ref="char:EOLhyphen"/>ſtates found it neceſſary for their own ſafety, and the ſafety of Religion, not onely to joyne all their Forces at home, but alſo to enter in a league and Chriſtian confederation with all Proteſtant Princes and Eſtates, againſt the bloudy league at Trent, and do think that
+<pb n="2" facs="tcp:65867:3"/>
+                  <!-- PDF PAGE 81 -->this defence of the Goſpell, is the moſt lawfull cauſe that Chriſtians can maintain and defend, eſpecially this union betwixt the two Kingdomes, againſt all at<g ref="char:EOLhyphen"/>tempts contrary to either of them, to be a neceſſary ſe<g ref="char:EOLhyphen"/>curity for both their Eſtates, and they conceive the ſame league to be offenſive and defenſive in matters of Religion, and do ſolemnly ſwear to confirme the whole Articles thereof in the next Parliament, and neither to ſpare their lives nor goods in the quarrell, and maintenance thereof, both againſt Forraigne In<g ref="char:EOLhyphen"/>vaſion, and inteſtine Inſurrection of Papiſts within this Iſland; Conformed to which there followed, firſt a league betwixt the two Crowns, ſubſcribed at Ber<g ref="char:EOLhyphen"/>wick, 1586. to the ſame effect, and upon the fear and apprehenſion of the Spaniſh Armado, 1587. and 1588. the Confeſſion of Faith was ſubſcribed by all the Subjects of this Kingdome, together with the Gene<g ref="char:EOLhyphen"/>rall Band therein, by the order of the King, Counſell and Convention of States, wherein the Subjects did ſwear to joyne and concurre with the whole Forces of their Friends and Favourers againſt whatſoever For<g ref="char:EOLhyphen"/>raigne, or Inteſtine Powers of Papiſts and their part<g ref="char:EOLhyphen"/>ners, ſhall arrive or riſe, within this Land, or any part thereof, ready to defend or purſue them, and therefore the cauſe being the ſame, the parties being the ſame, and the danger being the ſame, now we are bound to performe, now what we promiſed then.</item>
+               <item>Thirdly, we ſtand obliged to England, for old kind<g ref="char:EOLhyphen"/>neſſe to us being in the ſame poſture then, that they are in now, for in the year 1556. and 1557. the Eſtates of this Land, finding the Reformation of Religion, op<g ref="char:EOLhyphen"/>poſed, by their own Princes with Arms and violence, and themſelves oppreſſed by the Popiſh Army, ſought
+<pb n="3" facs="tcp:65867:3"/>
+                  <!-- PDF PAGE 81 -->and obtained the aſſiſtance of an Army from England, upon the conditions recorded in the Hiſtory, whereby they expelled the French Army, made the pacificati<g ref="char:EOLhyphen"/>on; at Leith held the Parliamant 1560. eſtabliſhed the Religion. Thereafter they got new aſſiſtance from England, to ſuppreſſe the generall Popiſh Faction; whereby they took in the Caſtle of Edinburgh from the Laird of Grange, and in that publick printed Pray<g ref="char:EOLhyphen"/>er, prefixt to the Pſalme Book, we ſolemnly promiſed never to forget their kindneſſe againſt the French, which we call to minde in the manifeſtation of the lawfulneſſe of the expedition into England, we ſtand obliged to them alſo for their late kindneſſe, for they not onely refuſed to levy Arms againſt us in the laſt troubles, but alſo did meditate for a Treaty, did wel<g ref="char:EOLhyphen"/>come and kindly entertaine our Army for a year, did freely beſtow upon us their brotherly aſſiſtance of three hundreth thouſand pound, whereupon we ac<g ref="char:EOLhyphen"/>knowledged our thankfulneſſe, not to conſiſt in affecti<g ref="char:EOLhyphen"/>on and words at that time, but in the mutuall kind<g ref="char:EOLhyphen"/>neſſe and reall Declaration to be expected from the whole Kingdome of Scotland, in all time to come, be<g ref="char:EOLhyphen"/>ſides ſolemne promiſes and vows, repeated in our late Declaration, and Information, publiſhed to the world, wherein we aſſure them of our help, in their need, as in the Remonſtrance of the States of Scotland, 1639. page 28. Remonſtrance to the Parliament of England 1640. page 15, 16. Intentions of the Army of Scotland, near the end.</item>
+               <item>Fourthly, the common danger imminent to both Kirks and Kingdomes, do invite us to help them: for as we have expreſt in many Declarations, we and they ſail in one bottome, dwell in one houſe, are members
+<pb n="4" facs="tcp:65867:4"/>
+                  <!-- PDF PAGE 82 -->of one body, that according to our own Principles, if either of the two Nations or Kirks be ruinated the o<g ref="char:EOLhyphen"/>ther cannot long ſubſiſt, if the Parliament of England be deſtroyed, and Popery be ſet up there, it is a leading caſe to this Kingdome and Kirke, for we have the ſame friends and foes, the ſame cauſe, and muſt run the ſame hazard, and many years experience hath taught us, what influence Popery and Prelacy in England may have upon Scotland, for from thence came the Pre<g ref="char:EOLhyphen"/>lates, the Ceremonies, the Book of Common Prayers, and Canons, and upon our refuſall the bloudy ſword came from thence, therefore we are to take Englands conditions to heart, as a common cauſe, to put forth our helping hand, if we tender Religion, Laws, and Li<g ref="char:EOLhyphen"/>berties.</item>
+               <item>Fifthly, the common advantage redounding to both Kirks and Kingdomes, do perſwade help: for hereby we have a fair opportunity to advance uniformitie in Diſcipline and Worſhip, which will prove the ſureſt bond of Union, and bulwark to both. And it is moſt deſired by the godly, and moſt oppoſed by Papiſts. They have already laid the foundation of a good buil<g ref="char:EOLhyphen"/>ding, by caſting out the Prelacie, that great Idoll, and they are now calling for our help to reare the building, and put on the Cap-ſtone in Gods own time, and alſo that Union will prove the greateſt terrour abroad of both Kingdomes, and the greateſt comfort and encou<g ref="char:EOLhyphen"/>ragement to the bleeding, down-born Kirks abroad: And may give the greateſt blow to the Kingdome of Antichriſt.</item>
+               <item>Sixthly, If we forſake England, we forſake our dea<g ref="char:EOLhyphen"/>reſt friends, who can beſt help us incaſe we be reduced to the like ſtraits hereafter, by the common adverſary,
+<pb n="5" facs="tcp:65867:4"/>
+                  <!-- PDF PAGE 82 -->for the diſtance and diſtreſſed eſtates of other Prote<g ref="char:EOLhyphen"/>ſtant Kirks, make them unable to help us in this kinde, and if we denude our ſelves of the ſupport of England, by ſuffering them to ſink, we do not onely betray their ſafety, but our own, let us do herein as we would be done to, what courſe would we crave of them, in caſe the Popiſh and malignant Faction did prevail, by murders and rapines, as in the dayes of Queen Regent did ruine our Kirks and Kingdome, certainly no an<g ref="char:EOLhyphen"/>ſwer would be ſatisfactory, but timely help.</item>
+               <item>Seventhly, If we ſuffer the Parliament of England to be cut off, we have loſt our peace with England, be<g ref="char:EOLhyphen"/>cauſe after our diſappointment through breach of the Declaration at Dunce, we reſolved to ſeek not a preſent, but a durable peace for our ſelves and our po<g ref="char:EOLhyphen"/>ſterity, and the ſureſt mean we could pitch on, was to ſettle our demands by advice of the Parliament of England, as the beſt caution and warrant of our peace, and particularly that Parliament hath undertaken upon publick faith, to purſue and apprehend any of their ſubjects that ſhould break the peace by invading this Kingdome, therefore Religion and ſenſe teaches us to ſee to the preſervation of that amity which did ob<g ref="char:EOLhyphen"/>tain, and yet doth maintaine our Religion and Liber<g ref="char:EOLhyphen"/>ties againſt the deſignes of our common enemies in England, Papiſts and Prelates; ſeeing we may remem<g ref="char:EOLhyphen"/>ber, that theſe perſons who now bide in the Parlia<g ref="char:EOLhyphen"/>lment, were the main impediments of Subſidies, for tevying warre againſt us, and the prime procurers of <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat Brotherly aſsiſtance, and ſo are probably the in<g ref="char:EOLhyphen"/>ſtruments that will moſt ſecure our peace from any diſturbance from that Kingdome; but if they be de<g ref="char:EOLhyphen"/>ſtroyed, and the Popiſh and Prelaticall Faction, the
+<pb n="6" facs="tcp:65867:5"/>
+                  <!-- PDF PAGE 83 -->workers of our woe, do over-rule the Parliament; and force it by armes, we may expect warre both from King and Parliament, which they will, over power, and may upon three moneths warning, denounce war againſt us, whereunto they will not want pretences; and we have reaſon to feare, that ſeeing they know their diſ-appointment to have come from this King<g ref="char:EOLhyphen"/>dome, yea, they do conſtruct all, reſiſting of the King by arms, to be rebellion and foule treaſon; yea, ſome of the Malignants at home are reported to have ven<g ref="char:EOLhyphen"/>ted, that the King was not tied to keep what he had granted to us, becauſe by calling and keeping of the Convention, we have firſt broken to him.</item>
+               <item>Eighthly, If we ſhould deſert them at this time, yet as <hi>Mordecai</hi> ſaid to <hi>Eſther,</hi> deliverance ſhall ariſe to them from elſewhere, but we and our Fathers houſe may look for deſtruction, and who knoweth but we are reſtored to our Religion and Liberties, to a free Convention at this time, and made a mirrour of Gods mercie to all Nations and Kirks, that we may help our Brethren of England, powring out their teares and bloud for a Reformation; ſuch an occaſion to expreſſe love to Chriſt, and zeal for his Cauſe, was never offe<g ref="char:EOLhyphen"/>red to any Nation: therefore as the two Tribes of <hi>Reuben</hi> and <hi>Gad,</hi> with the half of <hi>Manaſſeh,</hi> did not ſit down and take their eaſe, but went over Jordan armed before their Brethren, to poſſeſſe them in the Land of Promiſe: ſo ſhould we go before our Brethren, and help them to the liberty of the Goſpel, and caſting out of the Canaanites.</item>
+               <item>Ninthly, that this is the onely means for the pro<g ref="char:EOLhyphen"/>curing of an happy agreement betwixt the King and the Parliament, by putting up of the ſword, and ſaving
+<pb n="7" facs="tcp:65867:5"/>
+                  <!-- PDF PAGE 83 -->Chriſtian bloud from being ſhed, ſuppreſsing of Pa<g ref="char:EOLhyphen"/>piſts, and eſtabliſhing Religion in his Dominions: for humble Supplications and Remonſtrances, reached out with naked hands, will not prevail with our adverſa<g ref="char:EOLhyphen"/>ries, who have invironed our King, and cloſed his ears to the cry of his Subjects.</item>
+            </list>
+            <p>But it will be objected, ſeeing our Religion and Li<g ref="char:EOLhyphen"/>berties are eſtabliſhed according to our own deſires by Act of Aſſembly and Parliament, with his Majeſties conſent, and ſeeing his Majeſties Declaration to the whole Kingdome, and Letter to every Nobleman and Burrough, do give aſſurance for preſervation of the ſame, without altering, we have no intereſt nor hazard however buſineſſe go in England, but ſhould keep our ſelves in peace and quiet.</p>
+            <list>
+               <item>1. Anſwer, in all the proceedings of this buſineſſe we have from time to time declared that neither ver<g ref="char:EOLhyphen"/>ball promiſes, nor fair Declarations for maintaining Religion and Liberty could ſecure us, becauſe we have ſo often found <hi>facta verbis contraria,</hi> and that by the power and means of our adverſaries. As for example, the treaty at Dunce, when we for his Majeſties honour confided to verball gracious expreſſions of his Maje<g ref="char:EOLhyphen"/>ſties for conditions of the Treaty, yet afterwards they were denied, and burnt by the hands of the hangman, and all reverſed that then was condeſcended on, for our Religion and Liberty, and an Army levied againſt us; it was the counſell of <hi>Monſieur de Oſel</hi> to the Queen Regent at Saint Andrews, for reverſing our firſt Refor<g ref="char:EOLhyphen"/>mation to grant our Predeceſſors in fair promiſes and Declarations all that they craved, and when thereby they ſhould be divided, to interpret theſe by her ſelf: and to take order with the heads of the opponers: and this policie was uſed by the King of France for ſub<g ref="char:EOLhyphen"/>verting
+<pb n="8" facs="tcp:65867:6"/>
+                  <!-- PDF PAGE 84 -->of the Proteſtant Religion, for he fed the one half of them with fair promiſes of Freedomes and Priviledges, untill he had cut off the other half, as wit<g ref="char:EOLhyphen"/>neſſeth <hi>Monſieur de Thow;</hi> 71 pag. 463.</item>
+               <item>2. As we have found by former experience, that the eſtabliſhment of our firſt Reformation by an Act of Aſſemby and Parliament, could not ſecure us from the violent preſſing of Innovations againſt both; and in the new Remonſtrance, 1640. pag. 16. we have ful<g ref="char:EOLhyphen"/>ly expreſt, that no Aſſembly or Parliament, no rotten Cable, nor ſlipping Anchor of Articles, whereunto we had faſtened our hopes, can be any Road or Har<g ref="char:EOLhyphen"/>bour of ſafety for us, ſo long as our enemies ſit at the Helme, and govern the Kings Councell, and Courſes, and who makes the Kings Majeſtie by extra-judiciall Declarations, to enerve and evacuate all that is done in Aſſembly and Parliament, and to interpret Laws con<g ref="char:EOLhyphen"/>trary to the advice of Judicators of Kirk and State, as of late our mediation betwixt his Majeſtie and his Parliament, was rejected contrary to the adviſe and judgement of Commiſſioners of the peace, and the Councell and hard anſwer to the Commiſſioners of the Kirk, was contrary to an Article of the Treaty, and the Act of the Generall Aſſembly, and his ſtopping of our Commiſsioners to go to London, contrary to his own ſafe conduct.</item>
+               <item>3. If the Parliament of England that now is, be de<g ref="char:EOLhyphen"/>ſtroyed, who ſhall undertake for our ſafety, as the Kings Declarations of his owne Intentions cannot ex<g ref="char:EOLhyphen"/>ceed his Perſon, nor ſecure us at the hands of his Suc<g ref="char:EOLhyphen"/>ceſſours; ſo we may perceive in the late diſcovery of the plots of the Scots, Engliſh, and Iriſh Papiſts, that theſe Declarations can be no ſufficient ſecurity againſt the ſurpriſing of Papiſts and Malignants, if they be
+<pb n="9" facs="tcp:65867:6" rendition="simple:additions"/>
+                  <!-- PDF PAGE 84 -->permitted to carry arms within any of the Kingdoms.</item>
+            </list>
+            <p>But we are a poor people, not able for ſuch an under<g ref="char:EOLhyphen"/>taking.</p>
+            <p>For anſwer, the repreſentative body of the Kingdom now conveened, can beſt ſatisfie this objection. Se<g ref="char:EOLhyphen"/>condly, when God calls his people, and makes them willing, he gives them alſo ſtrength, that through him they do valiantly. Thirdly, God hath helped us in all enterpriſes for his Cauſe, and he wil yet provide, in the Mount it ſhall be ſeen; we were but poor the laſt time, we went to the field in his errand, and yet he provided for us beyond expectation; his hand is not ſhortned that he cannot ſave, if the Lord call us, he will be with us, and if he be with us, we ſhall not want: we hope the wiſe Convention of States will ſee to the conditions that the Kingdome receive as little detri<g ref="char:EOLhyphen"/>ment as may be, onely let us not think it ſtrange if the beſt works meet with the greateſt difficulties. Third<g ref="char:EOLhyphen"/>ly, it is objected they will not imbrace a Presbyteriall government in the Kirk, and ſo no hope of uniformity. Anſwer, they have already put out Eſpiſcopall govern<g ref="char:EOLhyphen"/>ment, root and branch, neither will they, nor do the Proteſtant Kirks know of any other but Presbyteriall.</p>
+            <p>Secondly, their zealous Predeceſſors having in the dayes of Queen <hi>Elizabeth</hi> adventured upon many and heavie ſufferings for ſetting up a Presbyteriall govern<g ref="char:EOLhyphen"/>ment, were born down with the ſtreams of the times, and the power of Prelacie; and if any zealous man a<g ref="char:EOLhyphen"/>mongſt them have their ſcruples againſt Presbyteriall government, we truſt the Lord will reveal the truth unto them.</p>
+            <p>Thirdly, they have in many Declarations, expreſt their reſolutions and deſires for uniformity.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>Ja. Cranford.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
